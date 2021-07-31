@@ -1,15 +1,14 @@
 Package: readSOdata
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: Read data easily mostly from Stack Overflow (SO)
+Version: 0.0.1
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Ronak",
+           family = "Shah",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+           email = "shahronak47@yahoo.in")
+Description: It is very difficult to read data from SO when people don't add data in a reproducible format. 
+          This packages provides a ready to use function which makes this easier.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
