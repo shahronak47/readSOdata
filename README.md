@@ -12,7 +12,7 @@ and another one
 ![Example 2](www/example2.png)
 
 
-These table look good on SO but they are not easy to copy and use making it difficult to quickly help others. This package aims at solving this problem.
+These table look good on SO but they are not easy to copy and use, making it difficult to quickly help others. This package aims at solving this problem.
 
 
 If you click on Edit button on SO in the question these table look like this 
