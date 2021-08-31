@@ -53,7 +53,15 @@ readSOdata::readSOdata('| Race  | Headache | Paraesthesias  | Heartburn
 #7 Black        1             0         1
 #8 White        1             0         1
 ```
-
-
 Function `readSOData` also drops the columns that have all `NA` in them. 
+
+----
+
+# Installation
+
+To install the package you can use -
+
+```
+devtools::install_github('shahronak47/readSOdata')
+```
 
