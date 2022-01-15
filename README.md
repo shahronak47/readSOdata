@@ -1,15 +1,17 @@
 # readSOdata
 
+ [![R-CMD-check](https://github.com/shahronak47/readSOdata/workflows/R-CMD-check/badge.svg)](https://github.com/shahronak47/readSOdata/actions)
+
 I do like answering questions on Stack Overflow (SO). It is easier and faster to answer questions when the asker provides data in a reproducible format. However, many questions don't have data in easy to copy manner. 
 
 Here are couple of examples -
 
 
-![Example 1](www/example1.png)
+![Example 1](man/figures/example1.png)
 
 and another one
 
-![Example 2](www/example2.png)
+![Example 2](man/figures/example2.png)
 
 
 These table look good on SO but they are not easy to copy and use, making it difficult to quickly help others. This package aims at solving this problem.
@@ -17,7 +19,7 @@ These table look good on SO but they are not easy to copy and use, making it dif
 
 If you click on Edit button on SO in the question these table look like this 
 
-![Edit](www/edit.png)
+![Edit](man/figures/edit.png)
 
 Copy the data as it is and pass it to `readSOData` function. You may need to remove the second empty line  (`| -- | -- | -- | -- | -- |`) before passing the text to the function. 
 
