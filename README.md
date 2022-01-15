@@ -1,7 +1,6 @@
 # readSOdata
 
  [![R-CMD-check](https://github.com/shahronak47/readSOdata/workflows/R-CMD-check/badge.svg)](https://github.com/shahronak47/readSOdata/actions)
- 
   [![Codecov test coverage](https://codecov.io/gh/shahronak47/readSOdata/branch/master/graph/badge.svg)](https://codecov.io/gh/shahronak47/readSOdata?branch=master)
 
 I do like answering questions on Stack Overflow (SO). It is easier and faster to answer questions when the asker provides data in a reproducible format. However, many questions don't have data in easy to copy manner. 
