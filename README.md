@@ -68,3 +68,11 @@ To install the package you can use -
 devtools::install_github('shahronak47/readSOdata')
 ```
 
+---
+
+# Video Tutorial
+
+More information can be found in this video on YouTube. 
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/xb9722R3b2A/0.jpg)](https://www.youtube.com/watch?v=xb9722R3b2A)
+
